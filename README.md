@@ -33,3 +33,9 @@ file describing the message which must be shared accross processes.
     ]
 }
 ```
+
+## WatchDog
+
+## Client
+
+## Sensors
